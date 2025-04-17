@@ -1,0 +1,13 @@
+name = "Fintastic"
+filename = "fintastic-1.21.1-3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bbce7151996172de830d8112556f926adef36bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8465391
+project-id = 1126465

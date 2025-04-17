@@ -1,0 +1,13 @@
+name = "(Bee's) Fluffy Carpets and Wool"
+filename = "Fluffy Carpets v1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5914d8fe664f33b832b7181f84069e92f34dcf40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7094051
+project-id = 1306196

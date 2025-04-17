@@ -1,0 +1,11 @@
+version:3955
+fov:0.5
+guiScale:2
+key_quark.keybind.change_hotbar:key.keyboard.grave.accent
+key_gui.xaero_new_waypoint:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.keypad.multiply
+key_gui.xaero_enlarge_map:key.keyboard.z
+key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
+resourcePacks:["serilum_mod_translations","vanilla","mod_resources","mod/towntalk:respack","moonlight:merged_pack","file/Fancy Crops v1.3.zip","file/Fluffy Carpets v1.1.zip","file/Serified Font v1.2.zip","file/Cozier Beds v1.2.zip","file/Comforts Modernized - V1.1.zip"]
+incompatibleResourcePacks:["file/Cozier Beds v1.2.zip","file/Comforts Modernized - V1.1.zip"]
+renderClouds:"false"
