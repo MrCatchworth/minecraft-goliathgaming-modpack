@@ -236,6 +236,11 @@ hash = "d3aae5701cafafbd78eb966a608a783f1e6a404c5d2899133ec0a881ef2cc9b0"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
 file = "mods/fixed-anvil-repair-cost.pw.toml"
 hash = "f38a65ce0ce855debf9b44c95521e57790197c2e5bb2052cecc08ede56ed9fca"
 metafile = true
