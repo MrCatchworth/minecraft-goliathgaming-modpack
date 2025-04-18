@@ -228,6 +228,11 @@ hash = "0bf7b07a3c3a7f5220f6a30c07a8ca0fcf51927553a5fa4f73d39e5ef07a440e"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "93364566437d0965a12f68f5e676345341c2d9d7e3b24d2ecfd5b932f6057cc4"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "b95877b8d6f69db8f0c2fb3a4f76f7c6bc2f86896aec004acf350b1102ce27a1"
 metafile = true
