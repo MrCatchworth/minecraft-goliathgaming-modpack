@@ -13,6 +13,10 @@ file = "config/everycomp-hazardous.properties"
 hash = "e9eb9d2d372f3a76e2b8cca1d2c81c69c840b0ce2eedd4d4c5cc2ac5bc1beded"
 
 [[files]]
+file = "config/inventoryhud-client.toml"
+hash = "10e46bd3e23b640682b9731e66bbf56ef2c4bb7ef961de23fccebd0ac57701fc"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
