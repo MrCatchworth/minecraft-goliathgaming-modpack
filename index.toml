@@ -185,11 +185,6 @@ hash = "04eff00e4383097d9809dec31ab08976a4516fd5a2fe348b88a532507f68e6ba"
 metafile = true
 
 [[files]]
-file = "mods/createaddition.pw.toml"
-hash = "9fd99767788ac2057a81fc222cfc5d21930ea23698be8fad70899f21c6c54d4e"
-metafile = true
-
-[[files]]
 file = "mods/creeper-firework.pw.toml"
 hash = "987c1c91b59209ca206702aa1910ce16126df9842851fee54ec2c60ae5a68aaa"
 metafile = true
