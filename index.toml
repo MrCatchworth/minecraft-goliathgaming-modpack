@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/creeper_firework-common.toml"
+hash = "31fd9a45c065fddb7f0f67071e93c3605111dedb02f955b426b05b12e6ac1853"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "6c0349f20faffe6181b15d1e49b978c6c36098f5536f72bdeab1dc31101d760c"
 
