@@ -29,6 +29,10 @@ file = "config/inventoryhud-client.toml"
 hash = "10e46bd3e23b640682b9731e66bbf56ef2c4bb7ef961de23fccebd0ac57701fc"
 
 [[files]]
+file = "defaultconfigs/easier_sleeping-server.toml"
+hash = "a431150dca5af65894836b86b2f302fe3cc9c26659ffd17d24145148c877f821"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
