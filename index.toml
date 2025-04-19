@@ -25,6 +25,10 @@ file = "config/everycomp-hazardous.properties"
 hash = "e9eb9d2d372f3a76e2b8cca1d2c81c69c840b0ce2eedd4d4c5cc2ac5bc1beded"
 
 [[files]]
+file = "config/fixedanvilrepaircost.json5"
+hash = "dc2c24ca90876984935126354d264dfc597f2292b839a3cce57bf77f092708be"
+
+[[files]]
 file = "config/inventoryhud-client.toml"
 hash = "10e46bd3e23b640682b9731e66bbf56ef2c4bb7ef961de23fccebd0ac57701fc"
 
