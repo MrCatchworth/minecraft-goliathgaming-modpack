@@ -33,6 +33,10 @@ file = "config/inventoryhud-client.toml"
 hash = "10e46bd3e23b640682b9731e66bbf56ef2c4bb7ef961de23fccebd0ac57701fc"
 
 [[files]]
+file = "config/minecolonies-common.toml"
+hash = "e2a317da31de1103db85186962e8e67428ae26afc6a54c8c2aca6d4282ee7cee"
+
+[[files]]
 file = "defaultconfigs/easier_sleeping-server.toml"
 hash = "a431150dca5af65894836b86b2f302fe3cc9c26659ffd17d24145148c877f821"
 
