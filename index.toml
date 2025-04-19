@@ -499,6 +499,11 @@ hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "b6452a3374db1056c6e61ba9ad73d05118125965de9f0c9369a2c88f63528ed4"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "e7d596f25bd16e1cd85b34896f69c8801312de601f5af48cb412a2be505f09fb"
 metafile = true
