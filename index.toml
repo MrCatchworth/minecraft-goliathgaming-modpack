@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "6c0349f20faffe6181b15d1e49b978c6c36098f5536f72bdeab1dc31101d760c"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "5ee2daf4d4d5c1941edaec7490b637ba1ec236e0a0413a76ba961cdbecf781c5"
+
+[[files]]
 file = "config/everycomp-common.toml"
 hash = "65dfb384385425816a20166eba03fc07fd8eeee0ca2df42a5d7753506b48c418"
 
