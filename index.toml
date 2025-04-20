@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture-delight.pw.toml"
-hash = "624514fd57a5bad649068f8f2d6c45d88228249a266bd61b45cb749c42499766"
+hash = "da06aae3c2a37a247a474578a2e86ed604a5c282c62c524b4abea6333c0254e8"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "93364566437d0965a12f68f5e676345341c2d9d7e3b24d2ecfd5b932f6057cc4"
+hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a288648e98eecb160b8434891363f57812b9e937910791652add49ed1c0bf9f3"
+hash = "8e7de616ed5eaba305502d2b7711b7e38353f6e7bcbf3dabd97565a2e7bdca73"
 metafile = true
 
 [[files]]
@@ -521,11 +521,6 @@ hash = "62a76c5212c04d15c27d7c1141f0a0d7d803aa10d172444359e4dacbdba6da7b"
 metafile = true
 
 [[files]]
-file = "mods/quark-delight.pw.toml"
-hash = "3530e36f831f968105b2a8f5fe476eb2045bb4ad9f04a757958a94ad81f87790"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
@@ -537,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/rustic-delight.pw.toml"
-hash = "b6452a3374db1056c6e61ba9ad73d05118125965de9f0c9369a2c88f63528ed4"
+hash = "8a20275515fe7247642bab8af4095ff96efeb313467cd6c465d5696fef41c9a9"
 metafile = true
 
 [[files]]
