@@ -161,6 +161,10 @@ file = "configureddefaults/options.txt"
 hash = "1b639f00cf9591ea44fe638ab597762a652e31053a8478e8b1a60417ea7b4f45"
 
 [[files]]
+file = "icon.png"
+hash = "6b2bbb010f006b2eb90c3546cf7cd8032d7142beac9076b2c717782b87d52735"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "080f71eb7923d39fdf97ed1880ddc79e0c636a267f3f0cb9a27731f84810e3af"
 metafile = true
@@ -904,3 +908,7 @@ metafile = true
 file = "resourcepacks/serified-font.pw.toml"
 hash = "4f271ba3b3407f6ef9bc02f06bc5e2df9ce32127caf0f53f8139e63420232d93"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "37a3347016378053ec000623eb4d5d676531d46bb1e1dbd1393734f72027049c"
