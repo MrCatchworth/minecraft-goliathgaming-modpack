@@ -1,6 +1,6 @@
 name = "(Bee's) Fluffy Carpets and Wool"
 filename = "Fluffy Carpets v1.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

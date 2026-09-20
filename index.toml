@@ -882,25 +882,25 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/comforts-modernized.pw.toml"
-hash = "4174ff254d053615e70fad47e0f2844deb1076d7b699491e16224006b7ee5f34"
+hash = "c7624a18bbccc9ea8e132487beeff0be94a4e5e7ad1f65e79fa5b3490f0f2b41"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cozier-beds.pw.toml"
-hash = "12399e2a7316a5a890ca648f9d95d4bc1c203d8c3b42d89076bb3bec63eec603"
+hash = "b97f8bba0be5d48f38d4115605fbc91833c268df022614868b283c139deee027"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
-hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
+hash = "e3e625760944317301f0a812b3c5e43906022126718d48c2820bdac617bea1ca"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fluffy-carpets.pw.toml"
-hash = "49537fc058974024bc241e52c8babea43e3996de1c2df29e0852d28293e304d1"
+hash = "61b1c78bb362d4335f6a5081d70c6166019b55e6d3f3d07fb47dd59fd0c212c5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/serified-font.pw.toml"
-hash = "9989f9b01ef73f3bf7b248a4c07bc5aa53bf828add324d28453f544a206b9812"
+hash = "4f271ba3b3407f6ef9bc02f06bc5e2df9ce32127caf0f53f8139e63420232d93"
 metafile = true
