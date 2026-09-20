@@ -1,20 +1,56 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configureddefaults/README.md"
-hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
-
-[[files]]
-file = "configureddefaults/config/DistantHorizons.toml"
+file = "config/DistantHorizons.toml"
 hash = "82d1035ef3e5773ecffc5636a438f85f5d6dc97a3c5dd8a9ccc116d686085caf"
 
 [[files]]
-file = "configureddefaults/config/abridged.json"
+file = "config/abridged.json"
 hash = "495cd3b077123e29cb06df1c6696d689341d9d6dd3bbccaa44952ae64985631c"
 
 [[files]]
-file = "configureddefaults/config/creeper_firework-common.toml"
+file = "config/creeper_firework-common.toml"
 hash = "09674e16cc21ef81fe58aa318e0cd2e07806860a3b108111c217ea97f6592a37"
+
+[[files]]
+file = "config/everycomp-common.toml"
+hash = "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1"
+
+[[files]]
+file = "config/everycomp-entries.toml"
+hash = "03f706d1a91586a049576fe3eed9ff358b3bcc3dfa40225a6695e8943fbdeb59"
+
+[[files]]
+file = "config/everycomp-hazardous.toml"
+hash = "04096c064c9cd14f37fb061f7720c65c13fd4dfd07affd3988a1b2f29d352589"
+
+[[files]]
+file = "config/explorerscompass-common.toml"
+hash = "4d2c52927df3ab45cd34dd5168d7f5363a73f81ad75a7796ea02e375fafa8eef"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "d003d39ccabb86353b00bbc38fe13647d42debce6bc9087c2ee71ccfed2abb5d"
+
+[[files]]
+file = "config/particular-common.toml"
+hash = "c8ce6cc259062100f532322a341b46ec4755c030cccbb5d43be23fc6b9cafe61"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-server.toml"
+hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
+
+[[files]]
+file = "config/regions_unexplored/common.json"
+hash = "f1ca5a9c1057ed2de92369a22cef0b3017861fb26e941eaad5e8fde390be0ef7"
+
+[[files]]
+file = "config/rusticdelight-common.toml"
+hash = "a5cbf02a69b1d55b5a19490b49007050afdf52ae552537f52e71f4b3fda8ed38"
+
+[[files]]
+file = "config/sparsestructures.json5"
+hash = "75a830a8a005a44bbc21b51066d54558f6dd1fa61960e9fedd173ade24913725"
 
 [[files]]
 file = "configureddefaults/config/dsurround/dsurround.json"
@@ -29,32 +65,12 @@ file = "configureddefaults/config/everycomp-client.toml"
 hash = "88b1db478a0ee9c37e9ec28335b204a966fe17e9ba0310bcf2caffd28b5589a5"
 
 [[files]]
-file = "configureddefaults/config/everycomp-common.toml"
-hash = "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1"
-
-[[files]]
-file = "configureddefaults/config/everycomp-entries.toml"
-hash = "03f706d1a91586a049576fe3eed9ff358b3bcc3dfa40225a6695e8943fbdeb59"
-
-[[files]]
-file = "configureddefaults/config/everycomp-hazardous.toml"
-hash = "04096c064c9cd14f37fb061f7720c65c13fd4dfd07affd3988a1b2f29d352589"
-
-[[files]]
 file = "configureddefaults/config/explorerscompass-client.toml"
 hash = "82c5dd38557cf763287029169c7783a63b811f7bc4baa086953c06628e93a095"
 
 [[files]]
-file = "configureddefaults/config/explorerscompass-common.toml"
-hash = "4d2c52927df3ab45cd34dd5168d7f5363a73f81ad75a7796ea02e375fafa8eef"
-
-[[files]]
 file = "configureddefaults/config/naturescompass-client.toml"
 hash = "a5d664ed8aeecd77bd09611cba93d5f8e3194da8140666d3e97a0c4973dd0981"
-
-[[files]]
-file = "configureddefaults/config/naturescompass-common.toml"
-hash = "d003d39ccabb86353b00bbc38fe13647d42debce6bc9087c2ee71ccfed2abb5d"
 
 [[files]]
 file = "configureddefaults/config/particlerain/config.json"
@@ -65,16 +81,8 @@ file = "configureddefaults/config/particlerain/particles.json"
 hash = "c44906925035a709377135109fb1fa9609b53b3154f02a5d6497e2e3871babb6"
 
 [[files]]
-file = "configureddefaults/config/particular-common.toml"
-hash = "c8ce6cc259062100f532322a341b46ec4755c030cccbb5d43be23fc6b9cafe61"
-
-[[files]]
 file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
 hash = "4d7ca622dc2a409c0b45c04886f3028da92ea1b3dc79a5f7a089493d9ae28b5c"
-
-[[files]]
-file = "configureddefaults/config/pickupnotifier/pickupnotifier-server.toml"
-hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
 
 [[files]]
 file = "configureddefaults/config/quark-common.toml"
@@ -83,18 +91,6 @@ hash = "f076e08cf0da50178a3e439da7305e77af080ec6b213eb1227c17b777f04acfe"
 [[files]]
 file = "configureddefaults/config/regions_unexplored/client.json"
 hash = "a71189d1bb4b05cf07bb2357c760dd41565219c752b91b6518fa9c0c89e6a65b"
-
-[[files]]
-file = "configureddefaults/config/regions_unexplored/common.json"
-hash = "f1ca5a9c1057ed2de92369a22cef0b3017861fb26e941eaad5e8fde390be0ef7"
-
-[[files]]
-file = "configureddefaults/config/rusticdelight-common.toml"
-hash = "a5cbf02a69b1d55b5a19490b49007050afdf52ae552537f52e71f4b3fda8ed38"
-
-[[files]]
-file = "configureddefaults/config/sparsestructures.json5"
-hash = "75a830a8a005a44bbc21b51066d54558f6dd1fa61960e9fedd173ade24913725"
 
 [[files]]
 file = "configureddefaults/config/xaero/lib/client.cfg"
