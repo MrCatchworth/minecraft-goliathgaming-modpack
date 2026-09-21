@@ -1,2 +1,4 @@
 # Exclude exported CurseForge zip files
 *.zip
+# Exclude the folder used as a scratchpad for packwiz-installer
+packwiz-installer-output/
