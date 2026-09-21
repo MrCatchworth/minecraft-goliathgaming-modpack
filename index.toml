@@ -13,6 +13,10 @@ file = "config/creeper_firework-common.toml"
 hash = "09674e16cc21ef81fe58aa318e0cd2e07806860a3b108111c217ea97f6592a37"
 
 [[files]]
+file = "config/easier_sleeping-server.toml"
+hash = "59822fad2f5cc68729bbccc059376f542d31a4a815f4ae0103a8e8449c78e3fb"
+
+[[files]]
 file = "config/everycomp-common.toml"
 hash = "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1"
 
@@ -402,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-surroundings.pw.toml"
 hash = "2fc9b840a505f7e934ed4e5392aaa73da77bc48b20824afa5ef96cc5f5376e42"
+metafile = true
+
+[[files]]
+file = "mods/easier-sleeping.pw.toml"
+hash = "2480ff0aff764d1785bd2580e88a479a848c71d623d3828ef39a5b222c47d053"
 metafile = true
 
 [[files]]
